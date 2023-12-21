@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  BackgroundRemovalApp
+
+  Created by Farasat_Niazi on 10/12/2023.
+  
+*/
+"Login.UsernameField.Title" = "Username";
+"Login.PasswordField.Title" = "Password";
+"Login.LoginButton.Title" = "Login";
+"Home.Title" = "Welcome!";
+"Home.LogoutButton.Title" = "Logout";

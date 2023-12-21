@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  BackgroundRemovalApp
+
+  Created by Farasat_Niazi on 10/12/2023.
+  
+*/
+"ContentView.WelcomeMessage" = "Guten Morgen, %@!";
